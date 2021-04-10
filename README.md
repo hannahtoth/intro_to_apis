@@ -12,3 +12,7 @@ Learning to use js to get data, and display it!
 - [MDN Fecth Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [MDN Promis Docutmention](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [...]()
+
+### Fetch
+``` Javascript
+//Basic Fetch usuage
